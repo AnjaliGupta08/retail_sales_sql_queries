@@ -1,4 +1,4 @@
-# Retail_Sales_Sql_Queries
+# Retail_Sales_Basics_Sql_Queries
 SQL queries and reports analyzing retail transaction data (sales, customers, products) for insights on revenue, customer behavior, and product performance.
 
 
